@@ -4,6 +4,8 @@ I am a hobby coder.
 
 🌱 Currently I'm developing [Interactive Fiction](https://itsfoss.com/create-interactive-fiction/) games in Renpy and Twine.
 
+Check my [itch.io profile](https://shgeorge.itch.io/) soon.
+
 ---
 ### About me ###
 - 👔 My current day job is as a Project Manager. I have also experience as a 🔫[Combat System](https://en.wikipedia.org/wiki/9LV) supervsior, and ♟Modelling guided weapon trials in [simdis](https://en.wikipedia.org/wiki/SIMDIS) and [sadm](https://www.baesystems.com/en-aus/what-we-do/sadm).
