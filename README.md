@@ -2,20 +2,31 @@
 
 I am a hobby coder.
 
-🌱 Currently I'm developing [Interactive Fiction](https://itsfoss.com/create-interactive-fiction/) games in Renpy and Twine.
+🌱 Currently I'm developing Interactive Fiction games in Twine🧶
 
-Check my [itch.io profile](https://shgeorge.itch.io/) soon.
+👷🏻‍♂️ I like game-dev; though I've only made some simple web-site games, and started projects in *ZZT*, *Inform*, **Java**, *RPG Maker(VX Ace)*, *Tyranno Builder*, *Inform7*, and **Ren-py** over the years.
+
+📦 I'm also am interested web-developmnet 👨‍💻 (HTML📄, XML📑, CSS🖍, React⚛️, Node⬢...)
+
 
 ---
 ### About me ###
-- 👔 My current day job is as a Project Manager. I have also experience as a 🔫[Combat System](https://en.wikipedia.org/wiki/9LV) supervsior, and ♟Modelling guided weapon trials in [simdis](https://en.wikipedia.org/wiki/SIMDIS) and [sadm](https://www.baesystems.com/en-aus/what-we-do/sadm).
-- ☄️ My strength is being a strageic thinking, and down-to-earth manager who listens to concerns and takes action.
-- ⌨️ I am looking to develop my coding skills and 🚏pivot careers into software development👨‍💻.
 
-- 🛩 My hobby is learning to fly - I am working towards a [PPL](https://www.casa.gov.au/standard-page/ppl-private-pilot-licence) in 2021. You can watch my lessons on [Youtube](https://www.youtube.com/playlist?list=PLZAPaBmO1M7KwGG9ubxulvgmuCf6Ox2Um).
+- ⌨️ __I'm developing my *coding skills* to 🚏 *pivot careers* into software development__ 👨‍💻.
+
+- 👔 Currently I am a *Project Manager* - I schedule and organise teams conducting production tasks in an industry alliance project.
+ 
+- 🚢 I've been a *Combat System Supervsior* - I supervised the conduct of maintenaince, and managed a team of 6 technical sailors to ensure the optimal performance of multiple sensor and weapon control systems.
+ 
+- 📼A few years ago: I taught myself to use *SIMDIS* and *SADM* then used those products to model (predict) and reconstruct guided weapons firings
+
+- 🦕A long time ago (2003): I used XML and XSLT to produce a [static website at uni](https://web.archive.org/web/20030714023733/http://yallara.cs.rmit.edu.au/~shgeorge/about/index.html)
+
+
 ### Social Media ###
-- 🐣 [@hyperstn](https://twitter.com/hyperstn) is my Twitter account.
-- ☕️ [my kofi page](https://ko-fi.com/sgeorge)
+* 🐣 [twitter @hyperstn](https://twitter.com/hyperstn)
+* ☕️ [my kofi page](https://ko-fi.com/sgeorge)
+* 🎮 [itch.io profile](https://shgeorge.itch.io/)
 
 <!---
 SG-mancer/SG-mancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
