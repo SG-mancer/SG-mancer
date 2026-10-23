@@ -1,6 +1,6 @@
 👋 Hi, I’m Shane George.
 
-- I am studying to become a High School Technology teacher 👨‍🏫 at [Charles Sturt University](https://study.csu.edu.au/courses/bachelor-education-secondary-industry-entry-program).
+- 👨‍🏫 I teach [Industrial Technology (Metal and Timber)](https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/) at High School.
 - ⚓ I used to be an Electronics Technician in the [Royal Australian Navy](https://images.navy.gov.au/Home/Search?Query=20121124adf8178707_023.jpg).
 - 🦕 A long time ago (2003): I used XML and XSLT to produce a [static website at uni](https://web.archive.org/web/20030714023733/http://yallara.cs.rmit.edu.au/~shgeorge/about/index.html).
 
